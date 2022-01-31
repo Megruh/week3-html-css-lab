@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(247, 245, 235);
+}
+
+h1 {
+    font-family:fantasy;
+    color: rgb(238, 141, 14);
+    margin: 1px
+}
+
+h2 {
+    font-family: fantasy;
+    color:rgb(7, 119, 106);
+    margin: 1px;
+}
+
+h3 {
+    font-family: fantasy;
+    color: rgb(7, 119, 106);
+    margin: 1px;
+}
+
+h4 {
+    font-family: fantasy;
+    color:rgb(17, 180, 161);
+}
+
+p {
+    font-family: sans-serif;
+}
+
